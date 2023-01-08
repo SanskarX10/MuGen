@@ -6,9 +6,9 @@ Mu-Gen ( Artificial music generator ) :
 
 OVER VIEW :
     tools :
-    keras / tensorflow  : to code
-    Music 21 : to process symbolic music data
-    Muse score : convert notations to music
+    keras / tensorflow: to program the model 
+    Music 21: to process symbolic music data
+    Muse score: convert notations to music
 
     What a Melody is ?
     > sequence of notes and rests
@@ -105,3 +105,5 @@ DATA PREPROCESSING :
     Score -
         parts : a part contains multiple bars (time signature , bass etc ) , can be easily manipulated
         score + parts + measure + notes
+       
+![Outline](https://github.com/SanskarX10/MuGen/blob/main/image.jpg?raw=true)
