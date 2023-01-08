@@ -106,4 +106,4 @@ DATA PREPROCESSING :
         parts : a part contains multiple bars (time signature , bass etc ) , can be easily manipulated
         score + parts + measure + notes
        
-![Outline](https://github.com/SanskarX10/MuGen/blob/main/image.png)
+![Outline](https://raw.github.com/SanskarX10/MuGen/blob/main/image.png)
