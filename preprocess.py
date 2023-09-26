@@ -1,9 +1,3 @@
-"""
-Submitted by :
- Sanskar Shrivastava : 0818CS181116
- Harsh Mishra : 0818CS181055
-
-"""
 
 import os
 import json
