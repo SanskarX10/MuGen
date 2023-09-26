@@ -1,9 +1,4 @@
-"""
-Submitted by :
- Sanskar Shrivastava : 0818CS181116
- Harsh Mishra : 0818CS181055
 
-"""
 
 import tensorflow.keras as keras
 import json
